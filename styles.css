@@ -24,6 +24,7 @@ b {
 	font-weight: 600;
 }
 iframe {
+	margin: 3em 0;
 	height: 1550px;
 	width: 100%;
 }
